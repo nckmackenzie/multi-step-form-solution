@@ -46,8 +46,6 @@ Users should be able to:
 - [Tailwindcss](https://tailwindcss.com/docs/) - Styling references
 - [MDN](https://developer.mozilla.org/) - Array methods references.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Frontend Mentor - [@nckmackenzie](https://www.frontendmentor.io/profile/nckmackenzie)
